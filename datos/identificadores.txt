@@ -1,0 +1,7 @@
+Sexo	P3271
+años	P6040
+etnia	P6080
+estado_civil	P6070
+educacion	P3042
+reconoce	P3039
+departamento	DPTO	
